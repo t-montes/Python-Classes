@@ -60,6 +60,10 @@ elif val3:
 else:
     ...             # Si (val1 == False) and (val2 == False) and (val3 == False)
 
+""" Operador Ternario """
+
+name = input("Digite su nombre: ")
+x = 0 if name == "Tony" else 1 # Si el nombre es "Tony", x=0 de lo contrario, x=1
 
 """ Representación Numérica de Booleanos """
 
