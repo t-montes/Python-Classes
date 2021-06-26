@@ -2,15 +2,15 @@
 
 > This repository contains the classes of Python teached by Tony Santiago Montes Buitrago (santiago.montesb@gmail.com).
 
-## Temary
+## Content
 
 ##### Module 1
 
-* 1. Basic Data Types
+* 1. Basic data types
 * 2. Assignments
 * 3. Numbers
-    * Arithmetic Operators
-    * Increase, Decrease, ...
+    * Arithmetic operators
+    * Increase, decrease, ...
 * 4. Strings
     * Concatenation, and more
     * _str_ methods
@@ -19,38 +19,39 @@
     * _random_
     * Other libraries
 * 6. Booleans
-    * Logical Operators
-    * Comparation Operators
+    * Logical operators
+    * Comparation operators
     * **If-elif-else** block
+    * Ternary operators
 * 7. Functions
-    * Declaration and Calling
+    * Declaration and calling
     * Keyword, infinite args
 
 ##### Module 2
 
-* 8. Dictionaries
+* 1. Dictionaries
     * Indexing
     * _dict_ methods
-* 9. Lists
+* 2. Lists
     * _list_ methods
     * **while** block
     * **for-in** block
-* 10. Tuples
+* 3. Tuples
     * _tuple_ different from _list_
-* 11. Matrixes
+* 4. Matrixes
     * _pandas_ DataFrame
     * double-triple cycles
     * break-continue instructuions
-* 12. Exceptions
+* 5. Exceptions
     * **try-except-finally-else** block
     * handle exceptions
     * raise instruction
 
 #### Module 3
 
-* 13. Classes
-    * Attributes and Methods
-    * Instantiation (objects)
-* 14. Decorators
+* 1. Classes
+    * Attributes and methods
+    * Instantiation (Objects)
+* 2. Decorators
 
 
